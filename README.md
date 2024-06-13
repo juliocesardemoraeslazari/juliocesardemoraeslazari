@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**juliocesardemoraeslazari/juliocesardemoraeslazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é julio césar 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](http://www.alura.com.br)
+- Jogo futebol
+- jogo volei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em contato comigo 📫
+
+0000111891742xsp@al.educacao.sp.gov.br
+
+@0000111891742x
+
+
+![](https://media1.tenor.com/m/T3dxQvlBqwAAAAAC/taking-a-drink-billy-butcher.gif)
